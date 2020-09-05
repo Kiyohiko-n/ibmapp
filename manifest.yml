@@ -1,0 +1,5 @@
+---
+applications:
+ - name: helmetclassifier2
+   random-random: true
+   memory: 128M
